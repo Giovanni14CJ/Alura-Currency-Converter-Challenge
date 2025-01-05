@@ -7,7 +7,9 @@ Objetos en Java, en el cual se desarrolla una aplicación que simula un converso
 
 ## Descripción del Challenge
 
-Este proyecto es una aplicación de consola Java que permite convertir montos entre diferentes monedas utilizando las tasas de cambio en tiempo real provistas por la API de Exchange Rate.
+Este proyecto es una aplicación de consola Java que permite convertir montos entre diferentes monedas utilizando las 
+tasas de cambio en tiempo real provistas por la API de Exchange Rate. Debes ingresar al package `src` y ejecutar el
+archivo `Principal.java` para iniciar la aplicación.
 
 ## Funcionalidades
 - Conversión predefinida entre monedas populares:
