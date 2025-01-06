@@ -1,6 +1,6 @@
 # Alura-Currency-Converter-Challenge
 
-![Movimiento Browniano](src/BackGround.jpeg)
+![Dvisas](src/BackGround.jpeg)
 
 A continuación se muestra el Challenge propuesto por Alura para el curso de Programación Orientada a 
 Objetos en Java, en el cual se desarrolla una aplicación que simula un conversor de divisas.
